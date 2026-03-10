@@ -19,11 +19,11 @@ In bioinformatics, genomic sequences or protein interactions often form intricat
 
 ## 📂 Project Structure
 * `Java files/`: Contains all Java source code files.
-* `report/`: Technical report.
+* `Graphs_in_Bioinformatics_Project_Report`: Technical report.
 * `README.md`: General project information.
 
 ## 📄 Documentation & Analysis
-For a deep dive into the algorithm design, time complexity , and implementation details, please refer to the **[Project Report (PDF)](./CME2201_HW2_Report_2024510014_2024510082.pdf)**.
+For a deep dive into the algorithm design, time complexity , and implementation details, please refer to the **[Project Report (PDF)](./Graphs_in_Bioinformatics_Project_Report.pdf)**.
 
 ## 👥 Contributors
 This project was a collaborative effort:

@@ -8,12 +8,12 @@ This project focuses on modeling and analyzing biological data using **Graph Abs
 ##  Overview
 In bioinformatics, genomic sequences or protein interactions often form intricate networks. This project:
 * Represents biological data using **Graph** data structures.
-* Optimizes memory management using [e.g., Adjacency List / Adjacency Matrix] representations.
+* Optimizes memory management using Adjacency Matrix representations.
 * Follows Object-Oriented Programming (OOP) principles in Java.
 
 ##  Technical Specifications
 - **Language:** Java
-- **Data Structures:** Graph ADT, [e.g., Queue, Stack, Hash Map]
+- **Data Structures:** Graph ADT, Queue, Stack, Hash Map
 - **Algorithms:** BFS, DFS, Dijkstra’s Algorithm
 - **Environment:** IntelliJ IDEA
 
